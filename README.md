@@ -8,10 +8,8 @@ _Lover of coding, web development, and creative design._
 ## 🚀 About Me
 
 - 🛡️ First-year Cybersecurity student  
-- 💻 Passionate about Web Development & Web Design  
+- 💻 Passionate about Web Development, CyberSecurity & Web Design  
 - 🎨 I enjoy building beautiful, functional web apps  
-- 🌍 Based in the Indian Ocean region  
-- 🏆 Currently participating in my first hackathon: **MDX2025** (Marvel theme!)
 
 ---
 
