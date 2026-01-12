@@ -31,14 +31,6 @@ _I’m a motivated cybersecurity student with a strong foundation in web develop
 
 ---
 
-## 🌟 Featured Projects
-
-### [Tropic Dodo (Capstone Project)](https://github.com/linuxcybersec/Capstone)
-> A full-stack travel web app focused on destinations in the Indian Ocean.  
-> Built from the ground up as my capstone project—combining everything I love about design, travel, and technology!
-
-### [WorldCup 2026 Website](https://github.com/linuxcybersec/worldcup-2026-website)
-> Excited about world events and coding? Check out my project for the 2026 World Cup!
 
 ---
 
