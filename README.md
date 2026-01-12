@@ -39,7 +39,6 @@ _Lover of coding, web development, and creative design._
 
 ## 🎯 Current Challenge
 
-- Participating in my very first hackathon (**MDX2025**) with a Marvel theme!  
 - Always learning, always coding.
 
 ---
@@ -47,6 +46,7 @@ _Lover of coding, web development, and creative design._
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nishchay-bholla-6250a5364)
+- Email: bhollanishchaykumar@gmail.com
 
 ---
 
