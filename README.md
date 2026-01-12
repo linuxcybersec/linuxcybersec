@@ -1,16 +1,21 @@
 # Hi there, I'm Nishchay Bholla! 👋
 
-**Cybersecurity Year 1, Semester 1 Student**  
-_Lover of coding, web development, and creative design._
+**Cybersecurity Student**  
+_I’m a motivated cybersecurity student with a strong foundation in web development and secure system design. I enjoy building real-world web applications that balance functionality, performance, and user experience, while keeping security in mind_
 
 ---
 
 ## 🚀 About Me
 
-- 🛡️ First-year Cybersecurity student  
-- 💻 Passionate about Web Development, CyberSecurity & Web Design  
-- 🎨 I enjoy building beautiful, functional web apps  
+🛡️ Cybersecurity student with hands-on project experience
 
+🌐 Passionate about Web Development, Web Security & UI/UX Design
+
+🎨 Strong interest in building clean, responsive, and user-focused interfaces
+
+🔐 Learning how to integrate security best practices into web applications
+
+📈 Always improving through projects, labs, and self-learning
 ---
 
 ## 🛠️ Top Skills
